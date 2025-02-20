@@ -2,7 +2,7 @@
 
 A feature-rich web app that lets users explore and rank countries based on population, area, and name. It offers advanced filtering, search capabilities, and detailed country insights, including neighboring countries.
 
-![preview][public/preview.png]
+![preview][preview.png]
 
 ## ✨ Features
 
