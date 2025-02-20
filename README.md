@@ -7,7 +7,7 @@ A feature-rich web app that lets users explore and rank countries based on popul
 ## ✨ Features
 
 - 📊 **Sort Countries**: By population, name (A-Z), or area (km²).
-- 🌎 **Filter Options**:
+- 🌎 **Fi.lter Options**:
   - By multiple regions: Americas, Africa, Asia, Europe, Oceania, Antarctic.
   - By UN membership and independence status.
 - 🔍 **Search**: Find countries by name, region, or subregion.
